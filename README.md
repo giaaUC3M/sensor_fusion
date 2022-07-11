@@ -5,4 +5,4 @@ To run it make sure you have the following programs and libreries with at least 
     * pip install pandas     == 1.3.3
     * pip install navpy      == 1.0
     * pip install matplotlib == 3.5.0b1
-    \* for more information look requeriments.txt file
+\* for more information look requeriments.txt file
