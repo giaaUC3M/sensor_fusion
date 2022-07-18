@@ -1,7 +1,7 @@
 To execute:
 1. Add the .ulg logs to the ulogs_mission folder.
 2. Run in the command console, at the same directory as the methodology.py file is, this command:
-    python3 methodology.py <args*>
+    <python directory> methodology.py <args*>
         * select if you want to discard any data category for the innovation calculation :
         --velocity      as -v
         --position      as -p
@@ -12,7 +12,7 @@ To execute:
         --superposition as -s (default: -s False)
         * enter the value in minutes of separation between one flight and another, to use it superposition must mut be desactivate
         --padding as -pd (default: -pd 1)
-    ex: python3 methodology.py -m -ff .png -pd 1
+    ex: <python directory> methodology.py -m -ff .png -pd 1
 3.  After the execution, an output folder named "outputs" will be generated with all the relevant information.
 
 
