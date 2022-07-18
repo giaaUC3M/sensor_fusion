@@ -2,7 +2,7 @@ To execute:
 1. Add the .ulg logs to the ulogs_mission folder.
 2. Run in the command console, at the same directory as the methodology.py file is, this command:
     <python directory> methodology.py <args*>
-        * select if you want to discard any data category for the innovation calculation :
+        * select if you want to DISCARD any data category for the innovation calculation :
         --velocity      as -v
         --position      as -p
         --magnetometer  as -m
