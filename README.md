@@ -9,8 +9,11 @@ are the logs of the flights performed for the designed mission.
 
 The **outputs** are:
 * The modified parameters.
-* The normalized innovation in each axis of: position, velocity and magnetometer.
+* The rms of the innovations in each axis of: position, velocity and magnetometer.
 * Different figures that allow to compare and visualize these metrics on each flight based on different aspects.
+
+![Picture1](https://user-images.githubusercontent.com/108266824/179523860-50f8d8d8-c421-47b0-8b0c-37a6b6bdacea.svg)
+
 
 ## Requirements
 * Programs:
