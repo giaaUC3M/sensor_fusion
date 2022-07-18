@@ -5,7 +5,7 @@ This tool allow selecting the best fusion system parameters, for a given sensor 
 \* Only for PX4 <= 5X
 
 The **inputs** of this program are
-are the logs of the flights performed for the designed mission. 
+are the logs of the flights performed (with different values of the fusion parameters) for the designed mission. 
 
 The **outputs** are:
 * The modified parameters.
