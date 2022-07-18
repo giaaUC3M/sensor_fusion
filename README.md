@@ -18,7 +18,7 @@ The **outputs** are:
 ## Requirements
 * Programs:
     * Python == 3.8.10
-* Required libraries:
+* Required libraries*:
     * pandas     == 1.3.3
     * navpy      == 1.0
     * matplotlib == 3.5.0b1
