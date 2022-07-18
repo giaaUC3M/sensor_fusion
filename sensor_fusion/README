@@ -6,6 +6,7 @@ To execute:
         --velocity      as -v
         --position      as -p
         --magnetometer  as -m
+        (default: NONE)
         * We can also select the format of the output figures (graphs, boxplots and histograms).
         --figures_format as -ff (default: -ff .svg)
         * If you want the graphs to show the data of each flight superimposed, this way you can better observe differences for the same time instant.
