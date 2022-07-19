@@ -1,6 +1,6 @@
 # Real Evaluation for Designing Sensor Fusion in UAV Platforms
 
-This tool allow selecting the best fusion system parameters, for a given sensor configuration and a predefined real mission of UAV with a PX4 controller\*, which does not require ground truth.
+This tool allows selecting the best fusion system parameters, for a given sensor configuration and a predefined real mission of UAV with a PX4 controller\*, which does not require ground truth.
 
 \* Only for PX4 <= 5X
 
