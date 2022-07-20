@@ -23,3 +23,7 @@ The **outputs** are:
     * matplotlib == 3.5.0b1
 
 \* for more information look requirements.txt file
+
+## Execution tutorial
+
+[![Watch the video](https://img.youtube.com/vi/ORwgwo4igpE/maxresdefault.jpg)](https://www.youtube.com/watch?v=ORwgwo4igpE)
